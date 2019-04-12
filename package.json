@@ -1,0 +1,29 @@
+{
+  "name": "q-logger",
+  "version": "0.0.1",
+  "description": "A logger client for Simple Node Message Queue (@nmq/q)",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/charmedsatyr-401-advanced-javascript/q-logger.git"
+  },
+  "keywords": [],
+  "author": "CharmedSatyr <z@charmed.tech>",
+  "license": "GPL-3.0-or-later",
+  "bugs": {
+    "url": "https://github.com/charmedsatyr-401-advanced-javascript/q-logger/issues"
+  },
+  "homepage": "https://github.com/charmedsatyr-401-advanced-javascript/q-logger#readme",
+  "devDependencies": {
+    "babel-eslint": "^10.0.1",
+    "eslint": "^5.16.0",
+    "jest": "^24.7.1"
+  },
+  "dependencies": {
+    "@nmq/q": "^1.0.3"
+  }
+}
