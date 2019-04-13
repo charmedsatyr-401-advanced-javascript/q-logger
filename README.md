@@ -20,7 +20,7 @@ See [Simple Node Message Queue (@nmq)](https://www.npmjs.com/package/@nmq/q)
 
 ### Setup
 #### `.env` requirements
-* `Q_SERVER` - The complete url and port to which the logger should connect to find the server
+* `Q_SERVER` - The complete url (potentially including the port) to which the logger should connect to find the server
 
 #### Running the app
 * `npm start`
