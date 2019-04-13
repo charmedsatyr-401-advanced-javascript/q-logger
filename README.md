@@ -8,6 +8,7 @@
 ### Links and Resources
 * [GitHub](https://github.com/charmedsatyr-401-advanced-javascript/q-logger)
 * [![Build Status](https://github.com/charmedsatyr-401-advanced-javascript/q-logger.svg?branch=master)](https://travis-ci.org/charmedsatyr-401-advanced-javascript/q-logger)
+* [Back End](http://q-logger-cs.azurewebsites.net)
 
 #### Documentation
 See [Simple Node Message Queue (@nmq)](https://www.npmjs.com/package/@nmq/q)
